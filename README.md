@@ -1,0 +1,1 @@
+# addon_vehicle_template
